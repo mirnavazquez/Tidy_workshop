@@ -39,9 +39,9 @@ El propósito general de este mini curso es revisar el flujo típico de análi
 
 # Tambien estos links...
 
-[dplyr](https://dplyr.tidyverse.org/).
-[tidyr](https://tidyr.tidyverse.org/).
-[stringr](https://stringr.tidyverse.org/).
+- [dplyr](https://dplyr.tidyverse.org/).
+- [tidyr](https://tidyr.tidyverse.org/).
+- [stringr](https://stringr.tidyverse.org/).
 
 
 
