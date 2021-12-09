@@ -24,11 +24,16 @@ El propósito general de este mini curso es revisar el flujo típico de análi
 
 ``install.packages("readxl", dependencies=TRUE)``
 
+# Presentación
+
+- Presentación parte 1: Introducción [GoogleDrive](https://docs.google.com/presentation/d/1BjgTadXo0jF4X3h5_Bdx3yYVBX0utepz2MIdKqDkxfg/edit?usp=sharing)
+
 # Ligas de interes
 
 - Definitivamente quieres checar este tutorial de [Alison Horst](https://www.allisonhorst.com/post/2021-02-08-dplyr-learnr/).
 
 - Y tambien quieres ver estas increibles ilustraciones de [Alison Horst](https://github.com/allisonhorst/stats-illustrations).
+
 
 # Tambien debes checar estas hojas de ayuda.
 
